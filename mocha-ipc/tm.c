@@ -31,6 +31,7 @@
 #include <sys/types.h>
 #include <pthread.h>
 #include <getopt.h>
+#include <errno.h>
 
 #include <radio.h>
 #include <tm.h>
